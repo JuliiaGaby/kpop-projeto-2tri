@@ -27,7 +27,7 @@ const perguntas = [
             },
             {
                 texto: "Hybe Corp. A empresa teve origem em 2005, com a Big Hit Entertainment, criada pelo compositor e produtor Bang Si-hyuk. O artista, que antes trabalhava na JYP, uma das chamadas “Big Three”, é conhecido como o mentor do BTS.",
-                afirmacao: "Sentiu mais a vontade por ser uma empresa bem conhecida mundialmente"
+                afirmacao: "Sentiu mais a vontade por ser uma empresa bem conhecida mundialmente para nao correr riscos"
             }
         ]
     },
@@ -40,7 +40,7 @@ const perguntas = [
             },
             {
                 texto: "7 ou mais pessoas, gosto de interagtir e ser bastante cominicativa com os outros tendo facilidade em lidar com grandes grupos",
-                afirmacao: "Sou mais do tipo comunicativo(a), gosto de ser aminada e social com a galera em minha volta"
+                afirmacao: "Voce e mais do tipo comunicativo(a), gosto de ser aminado(a) e social com a galera em sua volta"
             }
         ]
     },
@@ -49,23 +49,23 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Unnie Line (Lider)",
-                afirmacao: "Sou considerado um pai(mae) do gtrupo, sempre me preocupando e estando ali para ajudar no que for preciso."
+                afirmacao: "Sendo considerado um pai(mae) do grupo, sempre se preocupando e estando ali para ajudar o proximo no que for preciso."
             },
             {
                 texto: "Maknae Line (o mais novo do grupo).",
-                afirmacao: "Me consideram como o bebe do grupo, o mais novo aquele que todos adoram "
+                afirmacao: "Te consideram com o bebe do grupo, o mais novo aquele que todos adoram, e e o mais notavel "
             }
         ]
     },
     {
-        enunciado: "No final voce deparou com o resultado do seu teste",
+        enunciado: "No final voce deparou com o resultado do seu teste e pediram para dar a opiniao do que voce preferia ser",
         alternativas: [
             {
-                texto: "Parabenss!!! voce seria um ótimo dancer. Você vai arrasar nas coreografias e dar seu nome no break dance durante as performances do grupo, essa seria sua posição se debutasse em um grupo. Espero que tenha gostado do resulato não se esqueça de compartilhar para os amigos e curti",
+                texto: "voce seria um ótimo dancer. Você iria arrasar nas coreografias e dar seu nome no break dance durante as performances do grupo, essa seria sua posição se debutasse em um grupo.",
                 afirmacao: "Foi uma otima escolha, Aquele que se destaca nas apresentações e faz bem as coreografias, além de ensiná-las aos outros. Seu corpo é bem flexível e pode fazer coisas incríveis."
             },
             {
-                texto: "Parabenss!!! voce seria um ótimo visual.A posição de visual no kpop pode se assemelhar a anterior, mas nesse caso trata-se daquele(a) integrante que é considerado(a), pelo público, o(a) mais bonito(a) de acordo com os padrões de beleza de seu país.",
+                texto: "voce seria um ótimo visual.A posição de visual no kpop pode se assemelhar a anterior, mas nesse caso trata-se daquele(a) integrante que é considerado(a), pelo público, o(a) mais bonito(a) de acordo com os padrões de beleza de seu país.",
                 afirmacao: "Sua beleza é o que mais chamaria atenção no grupo, sem contar na sua voz. Ser o (a) visual te daria bastante popularidade e reconhecimento. Você seria bastante vaidoso (a). "
             }
         ]
