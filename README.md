@@ -1,1 +1,0 @@
-# kpop-projeto-2tri
