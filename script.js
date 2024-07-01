@@ -9,64 +9,64 @@ const perguntas = [
         enunciado: "Dancer, visual, face, center, vocal, líder, rapper ou maknae? Responda as perguntas do quiz abaixo, para saber qual posição você seria se estivesse debutando em grupo de k-pop! E não se esqueça de compartilhar e comentar qual foi a sua posição. Dancer, visual, face, center, vocal, líder, rapper ou maknae? Responda as perguntas do quiz abaixo, para saber qual posição você seria se estivesse debutando em grupo de k-pop! E não se esqueça de compartilhar e comentar qual foi a sua posição.",
         alternativas: [
             {
-                texto: "Música clássica, indie, um estilo mais calmo....",
-                afirmacao: "hip-hop, rap, k-pop, pop... "
+                texto: "Música clássica, indie, um estilo mais calmo...",
+                afirmacao: "Voce e uma pessoa com um estilo mais calmo. "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "hip-hop, rap, k-pop, pop...",
+                afirmacao: "Voce e uma pessoa com uma vibe mais animada "
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Com a descoberta deste novo grupo, logo você se depara com opções e grandes empresas da Coréia do Sul para decidir qual você e seu grupo irão debutar para assim começarem seus MVs, disco, shows... ( entre as mais famosas)?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "JYP Entertainment. Seu nome remete às iniciais do fundador, o músico Park Jin-Young. Constituída em 1997, lançou vários grupos de sucesso, como TWICE, GOT7, ITZY, Boy Story e NMIXX. É responsável por uma das maiores atuais do k-pop, Stray Kids.",
+                afirmacao: "Uau! voce tem um gosto bem peculiar, prefere algo mais animado e eletrizante"
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Hybe Corp. A empresa teve origem em 2005, com a Big Hit Entertainment, criada pelo compositor e produtor Bang Si-hyuk. O artista, que antes trabalhava na JYP, uma das chamadas “Big Three”, é conhecido como o mentor do BTS.",
+                afirmacao: "Sentiu mais a vontade por ser uma empresa bem conhecida mundialmente"
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Depois de voce ter sido escolhido na empresa, logo voce deu de cara com muitos participantes mas tendo em mente que pode escolher essas suas opcoes de membros no seu grupo",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "3 a 6 pessoas, pois nao gosto muito de socializar e prefiro para poder focar mais em meus objetivos com meus colegas",
+                afirmacao: "Voce e uma pessoa muito na sua e prefere apenas o pequeno grupo para poder se adpatar melhor"
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "7 ou mais pessoas, gosto de interagtir e ser bastante cominicativa com os outros tendo facilidade em lidar com grandes grupos",
+                afirmacao: "Sou mais do tipo comunicativo(a), gosto de ser aminada e social com a galera em minha volta"
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "No final sua ultima parte foi de escolher entre um grande lider ou um cacula do grupo. Qual foi sua escolha?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "Unnie Line (Lider)",
+                afirmacao: "Sou considerado um pai(mae) do gtrupo, sempre me preocupando e estando ali para ajudar no que for preciso."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "Maknae Line (o mais novo do grupo).",
+                afirmacao: "Me consideram como o bebe do grupo, o mais novo aquele que todos adoram "
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "No final voce deparou com o resultado do seu teste",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "Parabenss!!! voce seria um ótimo dancer. Você vai arrasar nas coreografias e dar seu nome no break dance durante as performances do grupo, essa seria sua posição se debutasse em um grupo. Espero que tenha gostado do resulato não se esqueça de compartilhar para os amigos e curti",
+                afirmacao: "Foi uma otima escolha, Aquele que se destaca nas apresentações e faz bem as coreografias, além de ensiná-las aos outros. Seu corpo é bem flexível e pode fazer coisas incríveis."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "Parabenss!!! voce seria um ótimo visual.A posição de visual no kpop pode se assemelhar a anterior, mas nesse caso trata-se daquele(a) integrante que é considerado(a), pelo público, o(a) mais bonito(a) de acordo com os padrões de beleza de seu país.",
+                afirmacao: "Sua beleza é o que mais chamaria atenção no grupo, sem contar na sua voz. Ser o (a) visual te daria bastante popularidade e reconhecimento. Você seria bastante vaidoso (a). "
             }
         ]
     },
