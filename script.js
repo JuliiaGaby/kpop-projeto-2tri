@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Música clássica, indie, um estilo mais calmo...",
-                afirmacao: "Voce e uma pessoa com um estilo mais calmo. "
+                afirmacao: "Você é uma pessoa com um estilo mais calmo. "
             },
             {
                 texto: "hip-hop, rap, k-pop, pop...",
-                afirmacao: "Voce e uma pessoa com uma vibe mais animada "
+                afirmacao: "Você é uma pessoa com uma vibe mais animada "
             }
         ]
     },
@@ -23,45 +23,45 @@ const perguntas = [
         alternativas: [
             {
                 texto: "JYP Entertainment. Seu nome remete às iniciais do fundador, o músico Park Jin-Young. Constituída em 1997, lançou vários grupos de sucesso, como TWICE, GOT7, ITZY, Boy Story e NMIXX. É responsável por uma das maiores atuais do k-pop, Stray Kids.",
-                afirmacao: "Uau! voce tem um gosto bem peculiar, prefere algo mais animado e eletrizante"
+                afirmacao: "Uau! você tem um gosto bem peculiar, prefere algo mais animado e eletrizante"
             },
             {
                 texto: "Hybe Corp. A empresa teve origem em 2005, com a Big Hit Entertainment, criada pelo compositor e produtor Bang Si-hyuk. O artista, que antes trabalhava na JYP, uma das chamadas “Big Three”, é conhecido como o mentor do BTS.",
-                afirmacao: "Sentiu mais a vontade por ser uma empresa bem conhecida mundialmente para nao correr riscos"
+                afirmacao: "Sentiu mais a vontade por ser uma empresa bem conhecida mundialmente para não correr riscos"
             }
         ]
     },
     {
-        enunciado: "Depois de voce ter sido escolhido na empresa, logo voce deu de cara com muitos participantes mas tendo em mente que pode escolher essas suas opcoes de membros no seu grupo",
+        enunciado: "Depois de você ter sido escolhido na empresa, logo voce deu de cara com muitos participantes mas tendo em mente que pode escolher essas suas opções da quantidade de membros no seu grupo",
         alternativas: [
             {
                 texto: "3 a 6 pessoas, pois nao gosto muito de socializar e prefiro para poder focar mais em meus objetivos com meus colegas",
-                afirmacao: "Voce e uma pessoa muito na sua e prefere apenas o pequeno grupo para poder se adpatar melhor"
+                afirmacao: "Você é uma pessoa muito na sua, e prefere apenas o pequeno grupo para poder se adpatar melhor"
             },
             {
                 texto: "7 ou mais pessoas, gosto de interagtir e ser bastante cominicativa com os outros tendo facilidade em lidar com grandes grupos",
-                afirmacao: "Voce e mais do tipo comunicativo(a), gosto de ser aminado(a) e social com a galera em sua volta"
+                afirmacao: "Você é mais do tipo comunicativo(a), gosta de ser aminado(a) e social com a galera em sua volta"
             }
         ]
     },
     {
-        enunciado: "No final sua ultima parte foi de escolher entre um grande lider ou um cacula do grupo. Qual foi sua escolha?",
+        enunciado: "No final sua ultima parte foi de escolher entre um grande lider ou um caçula do grupo. Qual foi sua escolha?",
         alternativas: [
             {
                 texto: "Unnie Line (Lider)",
-                afirmacao: "Sendo considerado um pai(mae) do grupo, sempre se preocupando e estando ali para ajudar o proximo no que for preciso."
+                afirmacao: "Sendo considerado um pai(mae) do grupo, sempre se preocupando e estando ali para ajudar o próximo no que for preciso."
             },
             {
                 texto: "Maknae Line (o mais novo do grupo).",
-                afirmacao: "Te consideram com o bebe do grupo, o mais novo aquele que todos adoram, e e o mais notavel "
+                afirmacao: "Te consideram com o bebê do grupo, o mais novo aquele que todos adoram, e e o mais notavel "
             }
         ]
     },
     {
-        enunciado: "No final voce deparou com o resultado do seu teste e pediram para dar a opiniao do que voce preferia ser",
+        enunciado: "No final você deparou com o resultado do seu teste e pediram para dar a opiniao do que voce preferia ser",
         alternativas: [
             {
-                texto: "voce seria um ótimo dancer. Você iria arrasar nas coreografias e dar seu nome no break dance durante as performances do grupo, essa seria sua posição se debutasse em um grupo.",
+                texto: "você seria um ótimo dancer. Você iria arrasar nas coreografias e dar seu nome no break dance durante as performances do grupo, essa seria sua posição se debutasse em um grupo.",
                 afirmacao: "Foi uma otima escolha, Aquele que se destaca nas apresentações e faz bem as coreografias, além de ensiná-las aos outros. Seu corpo é bem flexível e pode fazer coisas incríveis."
             },
             {
